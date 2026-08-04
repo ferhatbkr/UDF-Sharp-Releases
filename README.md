@@ -58,7 +58,7 @@ Bu özellik uygulama arayüzünde yer almamakta olup bağlam menüsü üzerinden
 
 Her ne kadar doğrudan UDF dosyalarıyla ilişkili olmasa da, günlük kullanımda faydalı olduğu düşünüldüğünden uygulamaya dahil edilmiştir.
 
-UETS üzerinden gönderilen evraklarda yer alan ekleri tek tek indirmek yerine, EYP paketinin tamamı indirilebilir ve ardından sağ tık menüsündeki **"EYP İçeriğini Ayıkla"** seçeneği kullanılarak paket içeriği çıkarılabilir.
+UETS üzerinden gönderilen evraklarda yer alan ekleri tek tek indirmek yerine, EYP paketinin tamamı indirilebilir ve ardından sağ tık menüsündeki **"EYP İçeriğini Ayıkla"** seçeneği kullanılarak paket içeriği çıkarılabilir. Bu özellik birden fazla EYP paketinin aynı anda işlenmesini destekler. Her arşiv için ayrı klasör oluşturulur.
 
 Ayıklama işlemi sonucunda, EYP dosyasıyla aynı adı taşıyan bir klasör oluşturulur ve tüm ek dosyalar bu klasöre yerleştirilir.
 
@@ -138,3 +138,11 @@ GitHub deposu öncelikli olarak sürüm yönetimi, dağıtım ve yedekleme amac�
 UDF#, geliştiricinin kendi ihtiyaçları doğrultusunda oluşturduğu ve zaman içerisinde geliştirdiği bir yardımcı araçtır. Uygulama mümkün olduğunca güvenilir ve kararlı çalışacak şekilde tasarlansa da, dönüştürme veya belge işleme süreçlerinde oluşabilecek veri kayıpları, biçimlendirme farklılıkları veya beklenmeyen sonuçlar konusunda herhangi bir garanti verilmemektedir.
 
 Özellikle önemli belgeler üzerinde işlem yapılmadan önce ilgili dosyaların yedeklerinin alınması tavsiye edilir. Kullanıcılar, uygulamayı kullanarak gerçekleştirdikleri işlemlerin sonuçlarını kontrol etmekten kendileri sorumludur.
+
+
+# Diğer Uygulamalar
+
+* **UDF+**: Android için UDF, PDF ve TIFF görüntüleme, EYP açma; Word belgelerinden UDF'ye dönüştürme özelliklerini sunan kapsamlı bir UDF  görüntüleyici.
+* Google Play Store: <https://play.google.com/store/apps/details?id=com.audivis.udfviewer>
+* **AudiVis Player**: Android için erişilebilirlik odaklı, altyazı seslendirme özelliğine sahip video oynatıcı..
+* Google Play Store: <https://play.google.com/store/apps/details?id=com.audivis.player>
