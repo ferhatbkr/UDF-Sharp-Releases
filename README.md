@@ -146,3 +146,5 @@ UDF#, geliştiricinin kendi ihtiyaçları doğrultusunda oluşturduğu ve zaman 
 * Google Play Store: <https://play.google.com/store/apps/details?id=com.audivis.udfviewer>
 * **AudiVis Player**: Android için erişilebilirlik odaklı, altyazı seslendirme özelliğine sahip video oynatıcı..
 * Google Play Store: <https://play.google.com/store/apps/details?id=com.audivis.player>
+* **Kanuni Faiz Hesaplama Tablosu**:Bu, her ne kadar bir uygulama olmasa da işe yarar bir elektronik tablo.
+* İndirme bağlantısı: <https://ferhatbkr.github.io/tcmb_reeskont_faizi/latest-online/>
