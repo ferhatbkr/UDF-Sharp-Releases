@@ -6,8 +6,9 @@ Bu sayfada geliştirdiğim uygulama ve araçların kısa açıklamaları ile gü
 
 UDF#; Word belgelerini (DOCX, DOC ve RTF) UDF formatına, UDF belgelerini PDF formatına dönüştürmeye; UDF belgelerinde metin değiştirmeye ve EYP paketlerinin içeriğini ayıklamaya yarayan bir Windows yardımcı aracıdır. Toplu işlem ve Windows Dosya Gezgini sağ tık menüsü desteği sunar.
 
+- **Doğrudan en son sürümü indir:** <https://ferhatbkr.github.io/AudiVis-Privacy/udf-sharp/download/>
 - **Microsoft Store:** <https://apps.microsoft.com/detail/9P0P6KL5339X>
-- **GitHub'daki en son sürüm:** <https://github.com/ferhatbkr/UDF-Sharp-Releases/releases/latest>
+- **En son sürümün yayın sayfası:** <https://github.com/ferhatbkr/UDF-Sharp-Releases/releases/latest>
 - **Kullanım kılavuzu ve sürüm deposu:** <https://github.com/ferhatbkr/UDF-Sharp-Releases>
 - **Gizlilik politikası:** <https://ferhatbkr.github.io/AudiVis-Privacy/udf-sharp/>
 
@@ -33,4 +34,4 @@ Kanuni faiz hesabı için hazırlanmış Excel çalışma kitabı. Çevrimiçi s
 
 ---
 
-Bağlantılar, projelerin güncel yayın veya mağaza sayfalarına yönlendirmek üzere düzenlenmiştir. UDF# için GitHub bağlantısı en son sürümün yayın sayfasını açar; indirme varlıkları bu sayfada listelenir.
+UDF# indirme bağlantısı GitHub'daki en son sürümün varlıklarını kontrol eder ve kurulum EXE'sine yönlendirir. Böylece sürüm numarası değişse de bağlantının güncellenmesi gerekmez.
