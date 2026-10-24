@@ -10,7 +10,6 @@ UDF#; Word belgelerini (DOCX, DOC ve RTF) UDF formatına, UDF belgelerini Word b
 - **Microsoft Store:** <https://apps.microsoft.com/detail/9P0P6KL5339X>
 - **En son sürümün yayın sayfası:** <https://github.com/ferhatbkr/UDF-Sharp-Releases/releases/latest>
 - **Kullanım kılavuzu ve sürüm deposu:** <https://github.com/ferhatbkr/UDF-Sharp-Releases>
-- **Gizlilik politikası:** <https://ferhatbkr.github.io/AudiVis-Privacy/udf-sharp/>
 
 ## UDF+ — Android
 
@@ -20,7 +19,7 @@ UDF, PDF ve TIFF belgelerini görüntülemeye, EYP paketlerini açmaya ve Word b
 
 ## AudiVis Player — Android
 
-Erişilebilirlik odaklı video oynatıcı. Altyazı metnini seslendirme ve video izlemeyi ekran okuyucu kullanan kişiler için daha erişilebilir hâle getirme özellikleri sunar.
+Erişilebilirlik odaklı video oynatıcı. Altyazı metnini seslendirme ve video izlemeyi  daha erişilebilir hâle getirme özellikleri sunar.
 
 - **Google Play:** <https://play.google.com/store/apps/details?id=com.audivis.player>
 
